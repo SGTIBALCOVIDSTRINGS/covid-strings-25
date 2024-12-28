@@ -71,49 +71,89 @@ it may even be the case that most long term covid sufferers never officially tes
 the problem may involve testing being viewed as safe if its near perfect 
 four years later covid is at least more manageable
 concatenated
-Backlash+Has+Made+The+Next+Pandemic+A+Harder+Thing+To+Deal+With
-COVID+At+Least+Has+MRNA+Vaccines+On+Hand
-Being+Unknowlingly+Contagious+For+10+Days+Is+Another+Concern
-Covid+In+Terms+Of+Speech+Is+Even+Being+Put+Before+The+Supreme+Court
-Even+More+Concerning+Is+The+Fact+That+5.8+Million+Kids+Have+Long+Covid
-Covid+Misinformation+Is+Still+Causing+A+Problem+Without+Ai
-Ai+Powered+Covid+Misninformation+Then+Is+An+Even+Bigger+Problem
-The+Consequence+Of+This+Is+Decreased+Lifespans]
-Covid Strings25 Math ProblemsList=[If The Line Had A Slope Of1 And7 Tenths With A Y Intercept Of 1/2 What Would The Y Coordinate Be If The X Coordinate Is5?,If The Point (5,9) Was Reflected Across The X Axis What Is The New Point?,If The Previous Point Was Rotated90 Degrees Clockwise What Is The New Point?,If The Previous Point Was Rotated270 Degrees Counterclockwise What Is The New Point?,If The Previous Point Was Translated2 Units Across The X Axis And4 Units Across The Y Axis What Is The New Point?,If The Previous Point Was Translated5 Units Across The X Axis And8 Units Across The Y Axis What Is The New Point?,If A Second Point Was Drawn At4 What Would The Y Coordinate Be?,If The Second Point Wanted To Intersect With The Original Point How Much Would It Have To Be Translated By?,If+A+American+Physcological+Association+Poll+Found+78+Percent+Of+Adults+Report+Increased+Stress+Due+To+Covid+What+Percent+Dont?,
-If+67+Percent+Strongly+Tie+The+Stress+To+Covid+What+Percent+Dont?,If+The+Margin+Of+Error+Is+3.434+Percent+What+Is+The+Range?,If+57+Percent+Are+Surprised+That+17+Million+Americans+Are+Living+With+Long+Covid+What+Percent+Arent?,If +17+Percent+Are+Strongly+Surprised+What+Percent+Is+Mild?,If+The+Margin+Of+Error+Is+1.717+Percent+What+Is+The+Range?]
-Covid Strings Scrambled Phrase List25=[Ovicd+Rmna+Acvines,5.8+Limon+Diks+Avhe+Ovcid]
-Userin.Select Team
-Import Meta.
-Class MyClass
-Constructor (Non-Concatenated)
-Return Category
-If Category==Math Problem:
-Prompt
-Log
-Else:
-Select From Multiple Choice
-If Problem=Multiple Choice 
-Select From Multiple Choice
-Else
-Prompt 
-Log
-Myclass=New.Myclass(Concatenated)
-Return Category
-If Category==Math Problem:
-Prompt
-Log
-Else:
-Select From Multiple Choice
-If Problem=Multiple Choice 
-Select From Multiple Choice
-Else
-Prompt 
-Log
-Import Syntax
-Chart JS 
-Def Gradient
+backlash+has+made+the+next+pandemic+a+harder+thing+to+deal+with
+covid+at+least+has+mrna+vaccines+on+hand
+being+unknowlingly+contagious+for+10+days+is+another+concern
+covid+in+terms+of+speech+is+even+being+put+before+the+supreme+court
+even+more+concerning+is+the+fact+that+5.8+million+kids+have+long+covid
+covid+misinformation+is+still+causing+a+problem+without+ai
+ai+powered+covid+misninformation+then+is+an+even+bigger+problem
+the+consequence+of+this+is+decreased+lifespans]
+covid strings25 math problemslist=[if the line had a slope of1 and7 tenths with a y intercept of 1/2 what would the y coordinate be if the x coordinate is5?,if the point (5,9) was reflected across the x axis what is the new point?,if the previous point was rotated90 degrees clockwise what is the new point?,if the previous point was rotated270 degrees counterclockwise what is the new point?,if the previous point was translated2 units across the x axis and4 units across the y axis what is the new point?,if the previous point was translated5 units across the x axis and8 units across the y axis what is the new point?,if a second point was drawn at4 what would the y coordinate be?,if the second point wanted to intersect with the original point how much would it have to be translated by?,if+an+american+physcological+association+poll+found+78+percent+of+adults+report+increased+stress+due+to+covid+what+percent+dont?,
+if+67+percent+strongly+tie+the+stress+to+covid+what+percent+dont?,if+the+margin+of+error+is+3.434+percent+what+is+the+range?,if+57+percent+are+surprised+that+17+million+americans+are+living+with+long+covid+what+percent+arent?,if +17+percent+are+strongly+surprised+what+percent+is+mild?,if+the+margin+of+error+is+1.717+percent+what+is+the+range?]
+covid strings scrambled phrase list25=[ovicd+rmna+acvines,5.8+limon+diks+avhe+ovcid]
+userin.select team
+import meta.
+class myclass
+constructor(non-concatenated)
+return category
+if category==math problem:
+prompt
+log
+else:
+select from multiple choice
+if problem=multiple choice 
+select from multiple choice
+else
+prompt 
+log
+myclass=new.myclass(concatenated)
+return category
+if category==math problem:
+prompt
+log
+else:
+select from multiple choice
+if problem=multiple choice 
+select from multiple choice
+else
+prompt 
+log
+import syntax
+chart js 
+def gradient
 id=mygradient
 gradientunits=userspaceonuse
+gradientunits=userspaceonuse
+x1=0
+y1=1/2
+x2=5
+y2=x2*1.7+1/2
+top offset=0 stop-color=ff0000
+stop offset=1 stop color=0000ff
+<lineargradient>
+<filter
+id=linear1
+filterunits=objectboundingbox
+x=0%
+y=0%
+width=100%
+height=100%
+<fecomponenttransfer>
+<fefunccovidstrings  type=linear slope>=1
+transformationlist=[reflection,rotation,translation]
+if reflection==x axis:
+shift x axis
+else:
+shift y axis
+if rotation==x degrees clockwise:
+shift x degrees 
+else:
+shift x degrees counterclockwise
+if translation==x units:
+shift
+else:
+remain
+substring(start,end)
+userin.multiple choice
+if (s1.length())!=s2.length: 
+return false
+if s1.length()==s2.length:
+return true
+char[]arr1=s1.tochararray
+char[]arr2= S2.tochararray
+arrays.sort(arr1)
+arrays.sort(arr2)
 if selectedanswer=not correct
 return false
 else 
