@@ -24,6 +24,13 @@ override
 public actionperformed(actionevent e)
 random r=newrandom();
 colorpanel.setbackground(rnextint(13),)(rnextint(13),)(rnextint(13),)(rnextint(13),)(rnextint(13),)(rnextint(13),)(rnextint(13),)(rnextint(13),(rnextint(13),(rnextint(13),(rnextint(13),(rnextInt(13),(rnextint(13)))
+num teams
+total players=players per team
+if players per team=zero
+return zero
+else 
+return math floor total players/players per team
+teamsgrouping=(rnextint8)(rnextint8)(rnextint8)(rnextint8)(rnextint8)(rnextint8)(rnextint8)
 buttonpanel.add(optionbutton);
 optionbutton.add actionlistener(new action listener)
 override 
@@ -131,17 +138,42 @@ width=100%
 height=100%
 <fecomponenttransfer>
 <fefunccovidstrings  type=linear slope>=1
+function1=number of americans living with long covid
+if function1Slope<0:
+return inverse relationship
+else:
+return no or direct relationship
 transformationlist=[reflection,rotation,translation]
 if reflection==x axis:
 shift x axis
 else:
 shift y axis
-if rotation==x degrees clockwise:
-shift x degrees 
+if rotation==90 degrees clockwise:
+shift 90 degrees clockwise 
 else:
-shift x degrees counterclockwise
-if translation==x units:
-shift
+remain
+if rotation==270 degrees counterclockwise:
+shift 270 degrees counterclockwise
+else:
+remain
+if translation==(2,4):
+shift 2 units right and 4 units up
+else:
+remain
+if translation==(5,8)
+shift 5 units right and 8 units up
+else:
+remain
+if translation(4,x)==difference of 9
+Find xvalue
+else:
+remain
+if instersection(4,13)(12,21)==translation:
+find number of units
+else:
+remain
+if intsersection(4,13)(7,13)==translation:
+find number of units
 else:
 remain
 substring(start,end)
@@ -162,4 +194,23 @@ if selectedanswer=correct:
 return true
 else:
 return false
+function2=(covid,car prices) 
+if function2.slope x1*y1 >=1:
+return direct
+else:
+return inverse or no relationship
+answer checker
+scanner=new scanner(system.in)
+string correct answer
+string useranswer=scanner.nextline()
+if useranswer.equals((correctanswer))
+system.out.print.in(correct)
+else:
+system.out.printin(incorrect)
+scanner.close
+check winner:
+if winner==true:
+log(the winner is)
+if winner==false:
+log(no winner yet) 
 return filename
