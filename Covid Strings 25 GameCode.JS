@@ -86,9 +86,9 @@ concatenated strings
 "covid"+"misinformation"+"is"+"still"+"causing"+"a"+"problem"+"without"+"ai"
 "ai"+"powered"+"covid"+"misninformation"+"then"+"is"+"an"+"even"+"bigger"+"problem"
 "the"+"consequence"+"of"+"this"+"is"+"decreased"+"lifespans"]
-covid strings25 math problemslist=[ non-concatenated "if the line had a slope of1 and7 tenths with a y intercept of 1/2 what would the y coordinate be if the x coordinate is5?,if the point (5,9) was reflected across the x axis what is the new point?,if the previous point was rotated90 degrees clockwise what is the new point?,if the previous point was rotated270 degrees counterclockwise what is the new point?,if the previous point was translated2 units across the x axis and4 units across the y axis what is the new point?,if the previous point was translated5 units across the x axis and8 units across the y axis what is the new point?,if a second point was drawn at4 what would the y coordinate be?,if the second point wanted to intersect with the original point how much would it have to be translated by?,
-concatenated "if"+"an"+"american"+"physcological"+"association"+"poll"+"found"+78+percent+of+adults+report+increased+stress+due+to+covid+what+percent+dont?,
-if+67+percent+strongly+tie+the+stress+to+covid+what+percent+dont?,if+the+margin+of+error+is+3.434+percent+what+is+the+range?,if+57+percent+are+surprised+that+17+million+americans+are+living+with+long+covid+what+percent+arent?,if +17+percent+are+strongly+surprised+what+percent+is+mild?,if+the+margin+of+error+is+1.717+percent+what+is+the+range?]
+covid strings25 math problemslist=[ non-concatenated "if the line had a slope of1 and7 tenths with a y intercept of 1/2 what would the y coordinate be if the x coordinate is5"?,"if the point (5,9) was reflected across the x axis what is the new point"?,"if the previous point was rotated90 degrees clockwise what is the new point"?,"if the previous point was rotated270 degrees counterclockwise what is the new point"?,"if the previous point was translated2 units across the x axis and4 units across the y axis what is the new point"?,"if the previous point was translated5 units across the x axis and8 units across the y axis what is the new point"?,"if a second point was drawn at4 what would the y coordinate be"?,"if the second point wanted to intersect with the original point how much would it have to be translated by"?,
+concatenated "if"+"an"+"american"+"physcological"+"association"+"poll"+"found"+"78"+"percent"+"of"+"adults"+"report"+"increased"+"stress"+"due"+"to"+"covid"+"what"+"percent"+"dont"?,
+"if"+"67"+"percent"+"strongly"+"tie"+"the"+"stress"+"to"+"covid"+"what"+"percent"+"dont"?,"if"+"the"+"margin"+"of"+"error"+"is"+"3.434"+"percent"+"what"+"is"+"the"+"range"?,"if"+"57"+"percent"+"are"+"surprised"+"that"+"17"+"million"+"americans"+"are"+"living"+"with"+"long"+"covid"+"what"+"percent"+"arent"?,"if"+"17"+"percent"+"are"+"strongly"+"surprised"+"what"+"percent"+"is"+"mild"?,"if"+"the"+"margin"+"of"+"error"+"is"+"1.717"+"percent"+"what"+"is"+"the"+"range"?]
 covid strings scrambled phrase list25=["ovicd"+"rmna"+"acvines","5.8"+"limon"+"diks"+"avhe"+"ovcid"]
 bonus question=("if the new point wanted to intersect with the first transformed point how many units would have to be translated"?)
 userin.select team
@@ -139,7 +139,7 @@ y=0%
 width=100%
 height=100%
 <fecomponenttransfer>
-<fefunccovidstrings  type=linear slope>=1
+<fefunccovidstrings type=linear slope>=1
 function1=number of americans living with long covid
 if function1slope<0:
 return inverse relationship
