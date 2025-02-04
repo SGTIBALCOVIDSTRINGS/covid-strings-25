@@ -5,6 +5,16 @@ head
 utf8
 viewportcontent=width=device-width,initial-scale=one
 title covid strings25 first round bracket
+div id bracket class bracket div
+script src bracket.js
+link rel= stylesheet href=css
+head
+body
+bracket-container{}
+matchup
+solid zero;
+padding 
+text align center 
 filename=covid strings25 first round.js
 first round=(highest overall seed ,second highest seed third highest seed first middle seed, second middle seed,  third lowest seed ,second lowest seed,lowest overall seed)
 highest overall seed =seed1
@@ -16,13 +26,13 @@ third lowest seed=seed6
 second lowest seed=seed7
 lowest overall seed=seed8
 covid strings team list25=[burgundy,yellow,black,red,purple,green,turquoise,orange]
-create matchup(green versus black)
-creatematchup(orange versus burgundy)
-creatematchup(purple versus red)
-create matchup(turquoise versus yellow)
+matchup1=(green versus black)
+matchup2=(orange versus burgundy)
+matchup3=(purple versus red)
+matchup4=(turquoise versus yellow)
 document.createelement 
 matchupdiv.classname=(matchup)
-matchupdiv.innerHTML=[matchup]
+matchupdiv.inner html=[matchup]
 rounddiv.appendchild(matchup)
 for (i in covid strings first round)
 round div=create element
@@ -57,19 +67,22 @@ else:
 return false
 advancingteam=slice(current teams)
 declarewinner
-result=declarewinner(team1 score, team2 score)
+result=declarewinner(matchup1)
 if black score>=forty:
 console.log(black night riders win)
 else:
 console.log(green peacemakers win)
+result=declarewinner(matchup2)
 if burgundy score>=forty:
 console.log(burgundy rebuilders win)
 else:
 console.log(orange rna messengers win)
+result=declarewinner(matchup3)
 if red score>=forty:
 console.log(red protein spikers win)
 else:
 console.log(purple brave hearts win)
+result=declarewinner(matchup4)
 if yellow score>=forty:
 console.log(yellow moxie wins)
 else:
