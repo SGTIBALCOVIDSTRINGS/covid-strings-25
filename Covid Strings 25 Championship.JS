@@ -5,12 +5,16 @@ head
 utf-eight
 viewport content=width=device-width,inital scale one
 title covid strings25 championship round bracket
+div id bracket class bracket div
+script src bracket.js
 link rel=stylesheet href=css 
 head
 body
-div id=bracket-container ></div>
-body
-html
+bracket-container {}
+matchup
+solid zero;
+padding 
+text align center 
 filename=covid strings25 championship.js
 championship game=(highest and lowest remaining seeds ) 
 team low seed=lowest remaining seed
@@ -34,7 +38,7 @@ question32
 question33
 question34
 advanceteams=slice(currentteams)
-result=declarewinner(team1 score,team2 score)
+result=declarewinner(team1score,team2score)
 if  team high seed score>=sixty:
 console.log(team high seed wins covid strings25)
 else:
