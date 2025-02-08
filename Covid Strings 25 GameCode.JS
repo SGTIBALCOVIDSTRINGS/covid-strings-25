@@ -1,6 +1,6 @@
 doc.type.html
 script
-filename=covidstrings25gamecode.js
+filename=covidstrings25.js
 java.awt graphics
 this.img=document.createelement(covid)
 img.src=http://www.google.com/intl/en_com/images/logo_plain.png
@@ -17,7 +17,7 @@ public fun with graphics()
 color panel=new j panel();
 this add (panel,center)
 button panel
-new j panel (flowlayout.center)
+new  panel (flowlayout.center)
 buttonpanel.add(randombutton);
 random.button add actionlistener(new action listener)
 override 
@@ -42,7 +42,7 @@ this.add(buttonpanel,borderlayout.south)
 public static main(string []args)
 jframe f = new covid strings25()
 f.set title(covid strings25)
-f.set default closeoperation(jframe.exit_on_close);
+f.set default closeoperation(exit_on_close);
 f.setsize
 f.set visible(true);
 <label id=lblscore>zero</label>
