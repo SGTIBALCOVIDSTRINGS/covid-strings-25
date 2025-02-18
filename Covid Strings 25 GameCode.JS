@@ -146,15 +146,15 @@ return inverse relationship
 else:
 return no or direct relationship
 transformationlist=[reflection,rotation,translation]
-if reflection==x axis:
-shift x axis
+if reflection(5,9)==x axis:
+sign. change y coordinate
 else:
 shift y axis
-if rotation==90 degrees clockwise:
+if rotation(5,-9)==90 degrees clockwise:
 shift 90 degrees clockwise 
 else:
 remain
-if rotation==270 degrees counterclockwise:
+if rotation(-5,-9)==270 degrees counterclockwise:
 shift 270 degrees counterclockwise
 else:
 remain
