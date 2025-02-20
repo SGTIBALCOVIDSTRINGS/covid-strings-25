@@ -158,11 +158,11 @@ if rotation(-5,-9)==270 degrees counterclockwise:
 shift 270 degrees counterclockwise
 else:
 remain
-if translation==(2,4):
+if translation(5,-9)==(2,4):
 shift 2 units right and 4 units up
 else:
 remain
-if translation==(5,8)
+if translation(7,-5)==(5,8)
 shift 5 units right and 8 units up
 else:
 remain
